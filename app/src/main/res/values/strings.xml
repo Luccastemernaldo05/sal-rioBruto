@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TrabalhoAppSalarioLiquido</string>
+    <string name="salario_bruto">Salário Bruto</string>
+    <string name="numero_dependentes">Número de Dependentes</string>
+    <string name="tipo_plano">Plano de Saúde</string>
+    <string name="vale_transporte">Vale Transporte</string>
+    <string name="vale_alimentacao">Vale Alimentação</string>
+    <string name="vale_refeicao">Vale Refeição</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="valida_sb">Informe o valor do Salário Bruto</string>
+    <string name="valida_numDependentes">Informe o número de dependentes</string>
+    <string name="valida_vr">Informe se possui Vale Refeição</string>
+    <string name="valida_vt">Informe se possui Vale Transporte</string>
+    <string name="valida_va">Informe se possui Vale Alimentação</string>
+
+
+
+
+    <string-array name="tipos_plano_saude">
+        <item>Standard</item>
+        <item>Básico</item>
+        <item>Super</item>
+        <item>Master</item>
+    </string-array>
+
+
+
+
+</resources>
